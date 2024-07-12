@@ -16,4 +16,5 @@
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=kim6102&color=ff69b4"> </p>
   <div align="center"> <p align="center"> <h2> 𝔇𝔢𝔞𝔡 𝔊𝔞𝔶 𝔉𝔦𝔰𝔥 </p> </h2> </div>
-  <div align="center"> <img align="center" src="https://i.imgur.com/73RqDTZ.jpeg" height="400"> </p> </div>
+  <div align="center"> <img align="center" src="https://i.imgur.com/73RqDTZ.jpeg" height="300"> </p> </div>
+
