@@ -5,7 +5,7 @@
 𝔻𝕖𝕒𝕕 𝔾𝕒𝕪 𝔽𝕚𝕤𝕙
 <img src="https://pixels.crd.co/assets/images/gallery09/f25b9d87.gif?v=7212058b">
 </h1> 
-<a href="https://x.com/ahriii7/status/1798579393876685302/photo/1"> <img src="https://pbs.twimg.com/media/GNC46nkaIAApkQ1?format=jpg&name=4096x4096">
+<a href="https://x.com/GJYGYAO/status/1788133239795949785/photo/1"> <img src="https://pbs.twimg.com/media/GNC46nkaIAApkQ1?format=jpg&name=4096x4096">
   
 </div>
 
